@@ -1,4 +1,4 @@
-# bootstrap.modality.network
+# modality-network-bootstrap
 
 Information for bootstrapping a Modality Network node.
 
